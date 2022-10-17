@@ -81,6 +81,8 @@ void KCPUInfo::fillCPUInfo()
     m_ui.cores->setText(QString::fromUtf8(aquirer->getCores().c_str()));
     m_ui.threads->setText(QString::fromUtf8(aquirer->getThreads().c_str()));
     m_ui.instructions->setText(QString::fromUtf8(aquirer->getInstructions().c_str()));
+
+    // todo fill in the missing information
 }
 
 
