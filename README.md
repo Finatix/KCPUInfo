@@ -5,4 +5,4 @@ Currently it's in an very early state and show rudimentary CPU information only.
 
 Besides that, information about the mainboard, the system memory and the operating system should be shown as well.
 
-It is a project under development for which a roadmap is in the works. Will be announced in november.
+It is a project under development for which a roadmap is in the works. Will be announced in spring 2023.
